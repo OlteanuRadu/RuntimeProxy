@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DynamicProxies
 {
 
-    public enum ExceptionReturnTypes
+    public enum ExceptionReturnTypes 
     {
         FAIL,
         IGNORE,
